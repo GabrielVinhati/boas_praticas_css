@@ -11,7 +11,7 @@
     color: gray;
 }
 
-.produto__item-destaque { /* modificador */
+.produto__item--destaque { /* modificador */
     border: 2px solid gold;
     padding: 8px;
     background-color: #ffff42;
